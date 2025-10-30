@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import { img1, img2, img3, img4, img5, img6} from '../assets';
+import { img1, img2, img3, img4, img5, img6, screenshot1, screenshot2, screenshot3, screenshot4, screenshot5} from '../assets';
 import { Link } from 'react-router-dom'; 
 import SectionWrapper from './SectionWrapper';
 // Add your own images by putting them in the assets folder and import them.
@@ -10,7 +10,12 @@ const images = [
  img3,
  img4,
  img5,
- img6
+ img6,
+ screenshot1,
+ screenshot2,
+ screenshot3,
+ screenshot4,
+ screenshot5
 
 ];
 function Picture() {

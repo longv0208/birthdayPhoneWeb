@@ -39,13 +39,13 @@ function Card() {
             <p>Happy Birthday!</p>
             <p>Chúc sinh nhật vui vẻ!</p>
             <p>
-              I hope you have a very blessed birthday!
+              Chúc thế thôi
             </p>
             <p>
-             Mong rằng tuổi mới sẽ mang đến cho bạn nhiều niềm vui và may mắn.
+             Mong chờ gì?
             </p>
             <p>
-              Hãy luôn giữ vững ước mơ và đam mê của mình nhé!
+              T mà chúc nhiều thì 1 là gọi cứu thương, 2 là gọi cảnh sát
             </p>
             <p className="signed">[Longv]</p>
           </div>
